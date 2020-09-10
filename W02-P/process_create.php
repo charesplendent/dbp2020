@@ -3,10 +3,10 @@
 
  $query = "
  INSERT INTO linefriends
-  (character, birthday)
+  (title, description)
   VALUES (
-    '$_POST['character']',
-    '$_POST['birthday']'
+    '$_POST['title']',
+    '$_POST['description']'
     )
  ";
 
