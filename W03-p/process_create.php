@@ -2,7 +2,6 @@
  $link = mysqli_connect('localhost', 'root', 'rootroot', 'friends');
 
  $filtered = array(
-   'id' => mysqli_real_escape_string($link, $_POST['id']),
    'title' => mysqli_real_escape_string($link, $_POST['title']),
    'description' => mysqli_real_escape_string($link, $_POST['description'])
  );
