@@ -17,3 +17,4 @@
 
 # 동작 화면 링크
  ## https://youtu.be/2PXp3Hl-mh4
+ ## https://youtu.be/64ki-74VyNQ (all.php language.php에 공식 언어 여부 추가 ver.)
