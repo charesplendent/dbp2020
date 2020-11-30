@@ -36,4 +36,4 @@
 ## + 새로운 환경 구축은 잘 돼서 답답하지 않았다.
 ## - 시간을 많이 낭비했다.
 ## ! 자바나 각종 부분에 공부를 더 해야겠다.
-### https://youtu.be/NdVKipZbykA
+### https://youtu.be/2Dh0lEKldwI
