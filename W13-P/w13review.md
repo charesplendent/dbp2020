@@ -19,8 +19,7 @@
 ### * 서블릿 클래스의 멤버(변수, 메소드)를 선언할 때 사용
 ### * 작성 위치는 상관 없음
 ### ** Expressions (표현식) <%= %>
-### * 문자열 출력
-### ** <jsp:...>
+### * 문자열 출력: <jsp:...>
 ### * JSP 내장 객체 : JSP 기술 사양 에 정의된 필수적인 9개 객체
 ### ** request, response, pageContext, session, application, config, out, page, exception
 ### ** JSP에서 별도 선언 없이 사용 가능
@@ -33,7 +32,7 @@
 # 참고할만한 내용
 ## https://installed.tistory.com/entry/12-JSP-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%98%88%EC%A0%9C-%EB%AA%A9%EB%A1%9D-%EC%9E%85%EB%A0%A5-%EC%88%98%EC%A0%95-%EC%82%AD%EC%A0%9C
 
-#회고
+# 회고
 ## + 새로운 환경 구축은 잘 돼서 답답하지 않았다.
 ## - 시간을 많이 낭비했다.
 ## ! 자바나 각종 부분에 공부를 더 해야겠다.
