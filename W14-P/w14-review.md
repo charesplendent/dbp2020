@@ -3,7 +3,7 @@
 ## ** MongoDB(HUMONGOUS DB)의 구조
 ### Documents-Collections-Database
 ## ** MongoDb 실습
-### Document&데이터 생성, 조회, 수정, 삭제
+### * Document&데이터 생성, 조회, 수정, 삭제 *
 ### insertOne, insertMany
 ### .find(), cursor.next(), cursor.hasNext()
 ### .find().toArray(), replaceOne
@@ -11,7 +11,7 @@
 ### deleteOne, deleteMany({})
 ### db.article.drop(), db.board.drop(), db.dropDatabase()
 
-#문제 발생+ 해결 과정
+# 문제 발생+ 해결 과정
 ## 없음.
 
 # 회고
